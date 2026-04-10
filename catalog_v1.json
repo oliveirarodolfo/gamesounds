@@ -22,4 +22,15 @@
       "is_premium": true
     }
   ]
+},    {
+      "id": 90003,
+      "title": {
+        "en": "War Helicopter",
+        "pt": "Helicóptero de Guerra"
+      },
+      "category": "MODERN",
+      "audio_url": "https://oliveirarodolfo.github.io/gamesounds-catalog/sounds/modern/war_helicopter.mp3",
+      "is_premium": true
+    }
+  ]
 }
